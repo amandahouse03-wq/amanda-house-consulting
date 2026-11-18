@@ -40,7 +40,7 @@ p{margin:0}
 
 /* hero */
 .hero{padding-top:5rem;padding-bottom:5rem}
-.hero h1{max-width:46rem}
+.hero h1{max-width:52rem}
 .lede{margin-top:2rem;max-width:40rem;font-size:1.125rem;color:var(--muted)}
 .cta-row{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:2rem}
 
