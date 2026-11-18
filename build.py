@@ -5,7 +5,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 SRC = ROOT / "src"
 OUT = ROOT / "site"
-DOMAIN = "https://amandahouseconsulting.com"
+DOMAIN = "https://www.amandahouseconsulting.com"
 SITE_NAME = "Amanda House | Consulting and Advisory"
 DESC = ("I help organizations find the path forward, align the people who need "
         "to make it work, and build momentum that lasts.")

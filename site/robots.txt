@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://amandahouseconsulting.com/sitemap.xml
+Sitemap: https://www.amandahouseconsulting.com/sitemap.xml
